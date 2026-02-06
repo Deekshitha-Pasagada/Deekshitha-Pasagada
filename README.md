@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I’m Deekshitha 👋
 
-<!--
-**Deekshitha-Pasagada/Deekshitha-Pasagada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software engineer with experience spanning **AI/ML systems, data workflows, and backend software development**.
 
-Here are some ideas to get you started:
+My work focuses on building **practical, real-world systems** — not just models or demos.  
+I’ve worked on:
+- AI and machine learning workflows
+- Data ingestion and transformation pipelines
+- Software systems using Python, Java, and C#
+- Real-time and performance-aware applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I care about
+- Writing clean, maintainable code
+- Understanding systems end-to-end
+- Applying AI where it actually adds value
+
+### Tech I work with
+- **Languages:** Python, Java, C#, SQL  
+- **AI/ML:** Machine Learning, Computer Vision, Model Evaluation  
+- **Software:** APIs, backend services, system design basics  
+- **Data:** Data preprocessing, validation, structured pipelines  
+- **Tools:** Git, Docker, Cloud platforms (AWS/Azure exposure)
+
+### Currently
+- Graduate student in Computer Science (AI-focused)
+- Actively building projects across AI, software engineering, and data systems
+
+📌 Feel free to explore my repositories below.
