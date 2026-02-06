@@ -2,7 +2,7 @@
 
 I’m a software engineer with experience spanning **AI/ML systems, data workflows, and backend software development**.
 
-My work focuses on building **practical, real-world systems** — not just models or demos.  
+My work focuses on building **practical, real-world systems**, not just models or demos.  
 I’ve worked on:
 - AI and machine learning workflows
 - Data ingestion and transformation pipelines
@@ -15,7 +15,7 @@ I’ve worked on:
 - Applying AI where it actually adds value
 
 ### Tech I work with
-- **Languages:** Python, Java, C#, SQL  
+- **Languages:** Python, Java, C, C++, C#, SQL  
 - **AI/ML:** Machine Learning, Computer Vision, Model Evaluation  
 - **Software:** APIs, backend services, system design basics  
 - **Data:** Data preprocessing, validation, structured pipelines  
